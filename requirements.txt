@@ -1,0 +1,7 @@
+joblib==1.4.2
+matplotlib==3.10.0
+numpy==2.2.0
+pandas==2.2.3
+pandas_ta==0.3.14b0
+scikit_learn==1.6.0
+tensorflow==2.16.2
